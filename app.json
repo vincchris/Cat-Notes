@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "MellowNotes",
+    "slug": "mellownotes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FFF7EE",
+    "plugins": [
+      "expo-sqlite",
+      "expo-status-bar"
+    ]
+  }
+}
